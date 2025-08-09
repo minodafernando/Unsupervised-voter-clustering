@@ -1,16 +1,16 @@
-# 🗳️ Voter Clustering Project: Uncovering Behavioral Patterns with K-Means
+# Voter Clustering Project: Uncovering Behavioral Patterns with K-Means
 
 This project applies unsupervised machine learning techniques to uncover latent voter segments based on demographic and political behavior data. Using K-Means clustering in Python, we group voters by characteristics such as employment, race, gender, and political attention — enabling pattern recognition useful in areas like fraud detection, risk profiling, and political forecasting.
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To segment voters into meaningful clusters and analyze their behaviors across multiple variables, with the goal of identifying patterns that might otherwise go unnoticed in aggregated data.
 
 ---
 
-## 📊 Methods & Tools
+## Methods & Tools
 
 - **Algorithm**: K-Means Clustering
 - **Preprocessing**: Standardization, One-Hot Encoding
@@ -19,7 +19,7 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 
 ---
 
-## 📈 Current Visualizations
+## Current Visualizations
 
 ### Race Distribution by Cluster
 ![Race Distribution](Visuals/race.png)
@@ -35,7 +35,7 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 
 ---
 
-## 🔧 Next Steps
+## Next Steps
 
 - Optimize `k` using Elbow Method & Silhouette Score
 - Apply **PCA** or **t-SNE** for 2D cluster visualization
@@ -44,7 +44,7 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 
 ---
 
-## 📌 Key Takeaways (So Far)
+## Key Takeaways (So Far)
 
 - Distinct patterns exist across voter segments, especially in how demographics intersect with political engagement
 - Clustering can help reveal nuanced subgroups often masked in top-line polling
@@ -52,7 +52,7 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 
 ---
 
-## 🧠 Applications
+## Applications
 
 - **Political Analysis**: Campaign targeting, typology classification  
 - **Fraud & Risk**: Pattern recognition, behavioral segmentation  
