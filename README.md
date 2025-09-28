@@ -2,13 +2,12 @@
 
 This project applies unsupervised machine learning techniques to uncover latent voter segments based on demographic and political behavior data. Using K-Means clustering in Python, we group voters by characteristics such as employment, race, gender, and political attention — enabling pattern recognition useful in areas like fraud detection, risk profiling, and political forecasting.
 
----
 
 ## Objective
 
 To segment voters into meaningful clusters and analyze their behaviors across multiple variables, with the goal of identifying patterns that might otherwise go unnoticed in aggregated data.
 
----
+
 
 ## Methods & Tools
 
@@ -17,7 +16,7 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 - **Visualization**: seaborn, matplotlib
 - **Tech Stack**: Python (pandas, scikit-learn, matplotlib, seaborn)
 
----
+
 
 ## Current Visualizations
 
@@ -57,8 +56,3 @@ To segment voters into meaningful clusters and analyze their behaviors across mu
 - **Political Analysis**: Campaign targeting, typology classification  
 - **Fraud & Risk**: Pattern recognition, behavioral segmentation  
 - **Marketing**: Psychographic or demographic-based grouping for outreach
-
----
-
-## 📁 Folder Structure
-
