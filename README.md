@@ -5,7 +5,7 @@ This project applies unsupervised machine learning techniques to uncover latent 
 
 ## Objective
 
-To segment voters into meaningful clusters and analyze their behaviors across multiple variables, with the goal of identifying patterns that might otherwise go unnoticed in aggregated data.
+To segment voters into meaningful clusters (1 - most likely voting Harris, 2 - most likely voting Trump, 0 - unsure) and analyze their behaviors across multiple variables, with the goal of identifying patterns that might otherwise go unnoticed in aggregated data.
 
 
 
